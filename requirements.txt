@@ -1,0 +1,19 @@
+openai==1.3.4
+httpx[socks]==0.25.1
+paramiko==3.3.1
+sentence_transformers==2.2.2
+streamlit==1.30.0
+tiktoken==0.5.1
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.0+cpu
+seatable_api == 2.6.10
+transformers~=4.35.0
+PyYAML~=6.0.1
+streamlit_authenticator==0.2.3
+streamlit_js_eval==0.1.5
+fastapi==0.109.0
+uvicorn==0.25.0
+pytz
+ordered-set==4.1.0
+markdown==3.5.2
+extra-streamlit-components==0.1.60
